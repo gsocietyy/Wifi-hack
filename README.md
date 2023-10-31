@@ -4,4 +4,4 @@ $apt install git
 $apt install bash
 $git clone https://github.com/gsocietyy/Wifi-hack
 $cd Wifi-hack
-$py Wifi
+$py Hack.py
